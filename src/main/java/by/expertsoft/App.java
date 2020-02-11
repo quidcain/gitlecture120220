@@ -14,4 +14,8 @@ public class App
     {
         System.out.println( "Smth was calculated. Result: " + calculateSmth() );
     }
+
+    public static void feature1()
+    {
+    }
 }
