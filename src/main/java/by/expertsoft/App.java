@@ -6,6 +6,8 @@ package by.expertsoft;
  */
 public class App 
 {
+    private static int y = 45;
+    private static int z = 45;
     private static int calculateSmth() {
         return 1000 * 8;
     }
